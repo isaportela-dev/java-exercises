@@ -1,31 +1,74 @@
-# Java Exercises
+# ☕ Java Exercises
 
-Repositório com exercícios e exemplos desenvolvidos durante meus estudos de Java.
+Repository containing exercises and examples developed during my **Java learning journey**.
 
-## Objetivo
+This repository is part of my transition into the **Backend Development** field.
 
-Organizar minha evolução na linguagem Java por meio de exemplos práticos, exercícios e anotações feitas ao longo das aulas.
+---
 
-## Conteúdos estudados
+## 🎯 Objective
 
-- Variáveis e tipos de dados
-- Operadores
-- Entrada e saída de dados
-- Estruturas condicionais
-- Estruturas de repetição
-- Arrays
-- Programação Orientada a Objetos
+The goal of this repository is to organize my progress in Java through practical exercises and examples developed during my studies.
 
-## Estrutura do repositório
+Each folder represents a topic studied while learning the language.
 
-Cada pasta representa um tema estudado durante o curso, com exemplos e exercícios práticos.
+---
 
-## Tecnologias
+## 📚 Studied Topics
+
+- Variables and Data Types  
+- Operators  
+- Input and Output  
+- Conditional Structures  
+- Loop Structures  
+- Arrays  
+- Object-Oriented Programming (in progress)
+
+---
+
+## 📂 Project Structure
+
+```
+java-exercises
+│
+├ fundamentals
+│   └ Basic Java concepts and first exercises
+│
+├ conditionals
+│   └ Exercises using if / else logic
+│
+├ loops
+│   └ Exercises using for and while loops
+│
+└ arrays
+    └ Exercises using arrays and iterations
+```
+
+---
+
+## 🛠 Technologies
 
 - Java
 - Git
 - GitHub
 
-## Autora
+---
 
-Isabella Portela
+## 🚀 Learning Progress
+
+This repository will continue to grow as I study more Java topics, including:
+
+- Methods
+- Object-Oriented Programming
+- Collections
+- APIs
+- Spring Boot
+
+---
+
+## 👩‍💻 Author
+
+**Isabella Portela**
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/isabellaportela)
+- 📧 isaportela6@gmail.com
