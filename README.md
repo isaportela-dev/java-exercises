@@ -70,5 +70,5 @@ This repository will continue to grow as I study more Java topics, including:
 
 **Isabella Portela**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/isabellaportela)
+- 💼 [LinkedIn](https://www.linkedin.com/in/isabellarportela)
 - 📧 isaportela6@gmail.com
