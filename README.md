@@ -26,7 +26,9 @@ Each folder represents a topic studied while learning the language.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
+
+Each folder represents a topic studied during the course and contains related exercises.
 
 ```
 java-exercises
@@ -40,8 +42,16 @@ java-exercises
 ├ loops
 │   └ Exercises using for and while loops
 │
-└ arrays
-    └ Exercises using arrays and iterations
+├ arrays
+│   └ Exercises using arrays and iterations
+│
+├ methods
+│   └ Exercises using custom methods and reusable logic
+│
+├ strings
+|   └ Exercises focused on string manipulation
+├ collections
+│   └ Exercises using ArrayList and other collections
 ```
 
 ---
