@@ -50,6 +50,7 @@ java-exercises
 │
 ├ strings
 |   └ Exercises focused on string manipulation
+|
 ├ collections
 │   └ Exercises using ArrayList and other collections
 ```
@@ -68,9 +69,8 @@ java-exercises
 
 This repository will continue to grow as I study more Java topics, including:
 
-- Methods
-- Object-Oriented Programming
 - Collections
+- Object-Oriented Programming
 - APIs
 - Spring Boot
 
